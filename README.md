@@ -1,13 +1,16 @@
 # 📃 Meu Portfólio
 
 # 📌 Sobre o Projeto
-Este é o meu primeiro portfólio pessoal, desenvolvido com HTML e CSS no início da minha jornada em programação.
-O projeto conta com uma seção inicial, habilidades, projetos e contato.
+Este é o meu primeiro portfólio pessoal, desenvolvido com HTML e CSS no início da minha jornada na programação.
+O projeto conta com uma seção inicial, sobre mim, habilidades, projetos e contato.
 
 
 # 🚀 Funcionalidades
 - Seção inicial (Home):
 Apresentação pessoal e introdução ao portfólio.
+
+- Sobre mim:
+Com informações pessoais como idade, minha formação academica na área e uma breve descrição o que eu faço
 
 - Habilidades:
 Lista das tecnologias e conhecimentos que eu possuía no momento da criação do projeto.
